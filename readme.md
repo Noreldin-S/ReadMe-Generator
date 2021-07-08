@@ -27,7 +27,7 @@ This app is used for creating a README.md file for any project.
 
 # Contributing
 
-Please submit [bugs and feature requests]()
+Please submit [bugs and feature requests](https://github.com/Noreldin-S/ReadMe-Generator/issues)
 
 # Tests
 
@@ -35,7 +35,7 @@ To run tests, you need to run the following command: node index.js
 
 # Questions
 
-If you have any questions about the repo, open an issue or contact chong0810 directly hongchangyeon@gmail.com.
+If you have any questions about the repo, open an issue or contact chong0810 directly s.noreldin@hotmail.com.
 
 [![README Generator](https://drive.google.com/file/d/1Azc-DlXvzSmBEr1mQ1Jnh8QqoTVBlzi6/view "README Generator")
 
